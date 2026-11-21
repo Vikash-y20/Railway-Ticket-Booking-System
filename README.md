@@ -28,5 +28,5 @@ Run on Windows:
 .\railway.exe
 ```
 
-## Author
-Your Name
+## Author name 
+vikash yadav
